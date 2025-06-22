@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- CHARACTER DATA ---
     // You can easily add more characters here! Just find a URL for the image.
     const allCharacters = [
-        { name: 'T-Rex', image: 'https://pngimg.com/uploads/t-rex/t-rex_PNG114.png' },
+        { name: 'T-Rex', image: 'https://i.natgeofe.com/k/825bd6d8-6daf-4019-8cab-9b4ed6c02545/tyrannosaurus-rex-closeup-jaws-walking_square.jpg' },
         { name: 'Dragon', image: 'https://i.pinimg.com/originals/a9/00/c6/a900c6111a25d8cedc36735235894373.png' },
         { name: 'Giant Ape', image: 'https://comicvine.gamespot.com/a/uploads/scale_small/11135/111352701/8110915-king_kong_png_by_mintmovi3_deggp4p-fullview.png' },
         { name: 'Superhero', image: 'https://pngimg.com/uploads/superman/superman_PNG75.png' },
