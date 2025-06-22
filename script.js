@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Dragon', image: 'https://i.pinimg.com/originals/a9/00/c6/a900c6111a25d8cedc36735235894373.png' },
         { name: 'Giant Ape', image: 'https://comicvine.gamespot.com/a/uploads/scale_small/11135/111352701/8110915-king_kong_png_by_mintmovi3_deggp4p-fullview.png' },
         { name: 'Superhero', image: 'https://pngimg.com/uploads/superman/superman_PNG75.png' },
-        { name: 'Giant Robot', image: 'https://github.com/Solobolt/OwensArena/blob/main/images/OATest.png' },
+        { name: 'Giant Robot', image: 'https://raw.githubusercontent.com/Solobolt/OwensArena/refs/heads/main/images/OATest.png' },
         { name: 'Alien Invader', image: 'https://www.pngall.com/wp-content/uploads/2/Alien-PNG-Free-Image.png' },
         { name: 'Sea Monster', image: 'https://www.creativefabrica.com/wp-content/uploads/2021/08/04/Sea-Monster-Cthulhu-Octopus-Kraken-Graphics-15494200-1-1-580x386.png' },
         { name: 'Gryphon', image: 'https://www.pngmart.com/files/22/Griffin-PNG-Isolated-Pic.png' }
